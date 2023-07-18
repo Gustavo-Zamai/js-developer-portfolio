@@ -61,13 +61,28 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto Dev Links",
+      "url": "https://github.com/Gustavo-Zamai/dev_links",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Space Shooter",
+      "url": "https://github.com/Gustavo-Zamai/Space-Shooter",
+      "github": true
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/Gustavo-Zamai/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Portfólio",
+      "url": "https://github.com/Gustavo-Zamai/Portfolio-Gustavo-Zamai",
+      "github": true
+    },
+    {
+      "name": "Dark Solus Fan Page",
+      "url": "https://github.com/Gustavo-Zamai/ds_fan_page",
       "github": true
     }
   ],
