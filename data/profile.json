@@ -9,27 +9,39 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://github.com/Gustavo-Zamai/js-developer-portfolio/blob/main/data/imgs/nodejs.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://github.com/Gustavo-Zamai/js-developer-portfolio/blob/main/data/imgs/java.png"
       },
       {
         "name": "Postgresql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://github.com/Gustavo-Zamai/js-developer-portfolio/blob/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://github.com/Gustavo-Zamai/js-developer-portfolio/blob/main/data/imgs/js.png"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://github.com/Gustavo-Zamai/js-developer-portfolio/blob/main/data/imgs/css.png"
+      },
+      {
+        "name": "HTML5",
+        "logo": "https://github.com/Gustavo-Zamai/js-developer-portfolio/blob/main/data/imgs/html.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://github.com/Gustavo-Zamai/js-developer-portfolio/blob/main/data/imgs/git.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://github.com/Gustavo-Zamai/js-developer-portfolio/blob/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
