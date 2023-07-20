@@ -51,7 +51,8 @@
       "Flexibilidade",
       "Organização",
       "Comprometimento com resultados",
-      "Facilidade de comunicação"
+      "Facilidade de comunicação",
+      "Facilidade em aprender"
     ]
   },
   "languages": [
@@ -60,6 +61,11 @@
     "Espanhol (Intermediário)"
   ],
   "portfolio": [
+    {
+      "name": "Calculadora em React",
+      "url": "https://github.com/Gustavo-Zamai/Calculadora-React",
+      "github": true
+    },
     {
       "name": "Projeto Dev Links",
       "url": "https://github.com/Gustavo-Zamai/dev_links",
