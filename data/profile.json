@@ -62,6 +62,11 @@
   ],
   "portfolio": [
     {
+      "name": "GitFind",
+      "url": "https://github.com/Gustavo-Zamai/GitFind",
+      "github": true
+    },
+    {
       "name": "Calculadora em React",
       "url": "https://github.com/Gustavo-Zamai/Calculadora-React",
       "github": true
