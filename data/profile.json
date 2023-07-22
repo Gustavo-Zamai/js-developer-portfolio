@@ -62,6 +62,11 @@
   ],
   "portfolio": [
     {
+      "name": "Github Wiki",
+      "url": "https://github.com/Gustavo-Zamai/Github-Wiki",
+      "github": true
+    },
+    {
       "name": "GitFind",
       "url": "https://github.com/Gustavo-Zamai/GitFind",
       "github": true
@@ -73,7 +78,7 @@
     },
     {
       "name": "Projeto Dev Links",
-      "url": "https://github.com/Gustavo-Zamai/dev_links",
+      "url": "https://github.com/Gustavo-Zamai/Dev_Links",
       "github": true
     },
     {
@@ -93,7 +98,7 @@
     },
     {
       "name": "Dark Solus Fan Page",
-      "url": "https://github.com/Gustavo-Zamai/ds_fan_page",
+      "url": "https://github.com/Gustavo-Zamai/Dark_Souls_Fan_Page",
       "github": true
     }
   ],
