@@ -28,6 +28,10 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
         "name": "CSS3",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
@@ -61,6 +65,11 @@
     "Espanhol (Intermediário)"
   ],
   "portfolio": [
+    {
+      "name": "DIO Clone",
+      "url": "https://github.com/Gustavo-Zamai/DIO-Clone",
+      "github": true
+    },
     {
       "name": "Github Wiki",
       "url": "https://github.com/Gustavo-Zamai/Github-Wiki",
