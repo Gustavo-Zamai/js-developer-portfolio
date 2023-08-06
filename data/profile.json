@@ -66,6 +66,11 @@
   ],
   "portfolio": [
     {
+      "name": "Movie Recommendation",
+      "url": "https://github.com/Gustavo-Zamai/Movie-Recommendation",
+      "github": true
+    },
+    {
       "name": "DIO Clone",
       "url": "https://github.com/Gustavo-Zamai/DIO-Clone",
       "github": true
