@@ -1,7 +1,7 @@
 {
   "name": "Gustavo Simão Zamai",
   "photo": "https://avatars.githubusercontent.com/u/92702717?v=4",
-  "job": "Front-end Developer Junior",
+  "job": "Back-End Developer",
   "location": "Mococa - SP",
   "phone": "(19) 98970-5443",
   "email": "gustavosimaozamai@gmail.com",
@@ -10,10 +10,6 @@
       {
         "name": "Nodejs",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
         "name": "Postgresql",
