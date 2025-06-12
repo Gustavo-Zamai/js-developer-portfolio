@@ -39,7 +39,7 @@
         "name": "Docker",
         "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
       },
-       {
+      {
         "name": "Postman",
         "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
       },
@@ -61,21 +61,21 @@
       }
     ],
     "softSkills": [
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização",
-      "Comprometimento com resultados",
-      "Comunicação",
-      "Arquitetura de Sistemas",
-      "Otimização de Performance",
-      "Resolução de Problemas",
-      "Comunicação Técnica (Devs & Stakeholders)"
+      "Teamwork",
+      "Flexibility",
+      "OrganizatioN",
+      "Results-driven mindset",
+      "Communication",
+      "System Architecture",
+      "Performance Optimization",
+      "Problem-solving",
+      "Technical Communication (Devs & Stakeholders)"
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (Intermediário)",
-    "Espanhol (Intermediário)"
+    "Portuguese (Native)",
+    "English (B1 – Intermediate)",
+    "Spanish (B2 – Intermediate)"
   ],
   "portfolio": [
     {
@@ -89,17 +89,12 @@
       "github": true
     },
     {
-      "name": "Github Wiki",
-      "url": "https://github.com/Gustavo-Zamai/Github-Wiki",
-      "github": true
-    },
-    {
       "name": "GitFind",
       "url": "https://github.com/Gustavo-Zamai/GitFind",
       "github": true
     },
     {
-      "name": "Calculadora em React",
+      "name": "React Calculator",
       "url": "https://github.com/Gustavo-Zamai/Calculadora-React",
       "github": true
     },
@@ -112,33 +107,28 @@
       "name": "Space Shooter",
       "url": "https://github.com/Gustavo-Zamai/Space-Shooter",
       "github": true
-    },
-    {
-      "name": "Portfólio",
-      "url": "https://github.com/Gustavo-Zamai/portfolio-gustavo-zamai",
-      "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Monitor interno / Staff Segurança Eletrônica",
+      "name": "Internal Monitor / Staff Segurança Eletrônica",
       "period": "2023 - 2024",
-      "description": "Manutenção de clientes, monitoramento de imagens e disparos e comunicação com a equipe técnica."
+      "description": "Client maintenance, image monitoring and alarm triggers, and communication with the technical team."
     },
     {
-      "name": "Estagiário / Prefeitura Municipal de Mococa",
+      "name": "Intern / Prefeitura Municipal de Mococa",
       "period": "2021 - 2023",
-      "description": "Atendimento aos contribuintes, análise dos pedidos de isenção de IPTU, inclusão e alteração das informações dos contribuintes e imóveis na base de dados da prefeitura, emissão das segundas vias dos IPTUs."
+      "description": "Assisting taxpayers, analyzing IPTU (property tax) exemption requests, updating taxpayer and property information in the city hall database, and issuing duplicate IPTU bills."
     },
     {
-      "name": "Professor / Academia Bem Estar",
+      "name": "Instructor / Academia Bem Estar",
       "period": "2020 - 2021",
-      "description": "Atender os alunos na sala de musculação, realizar as avaliações fisícas dos alunos e montagem dos treinos."
+      "description": "Assisting gym members, conducting physical assessments, and designing workout plans."
     },
     {
-      "name": "Balconista / Pastelaria Renascer",
-      "period": "2013-2019",
-      "description": "Atendimento aos clientes, realização dos pedidos para fornecedores e armazenagem dos produtos"
+      "name": "Clerk / Pastelaria Renascer",
+      "period": "2013 - 2019",
+      "description": "Customer service, placing orders with suppliers, and inventory management."
     }
   ]
 }
