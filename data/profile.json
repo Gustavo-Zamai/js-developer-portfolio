@@ -1,58 +1,94 @@
 {
   "name": "Gustavo Simão Zamai",
   "photo": "https://avatars.githubusercontent.com/u/92702717?v=4",
-  "job": "Back-End Developer",
+  "job": "Fullstack Developer",
   "location": "Mococa - SP",
   "phone": "(19) 98970-5443",
   "email": "gustavosimaozamai@gmail.com",
   "skills": {
     "hardSkills": [
-      {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
-      },
-      {
-        "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
-      },
-      {
-        "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
-      },
-      {
-        "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
-      },
-      {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
-      },
-      {
-        "name": "Github",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
-      }
+"hardSkills": [
+  {
+    "name": "React",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  },
+  {
+    "name": "JavaScript",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+  },
+  {
+    "name": "TypeScript",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+  },
+  {
+    "name": "HTML5",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+  },
+  {
+    "name": "CSS3",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+  },
+  {
+    "name": "Node.js",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+  },
+  {
+    "name": "Express",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+  },
+  {
+    "name": "Fastify",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg"
+  },
+  {
+    "name": "Python",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
+  },
+  {
+    "name": "PostgreSQL",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
+  },
+  {
+    "name": "MySQL",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"
+  },
+  {
+    "name": "MongoDB",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
+  },
+  {
+    "name": "Docker",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+  },
+  {
+    "name": "Git",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+  },
+  {
+    "name": "GitHub",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+  },
+  {
+    "name": "Linux",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+  }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização",
       "Comprometimento com resultados",
       "Comunicação",
-      "Facilidade em aprender"
+      "Facilidade em aprender",
+      "Arquitetura de Sistemas",
+      "Otimização de Performance",
+      "Resolução de Problemas",
+      "Comunicação Técnica (Devs & Stakeholders)"
     ]
   },
   "languages": [
@@ -63,12 +99,12 @@
   "portfolio": [
     {
       "name": "Movie Recommendation",
-      "url": "https://github.com/Gustavo-Zamai/Movie-Recommendation",
+      "url": "https://github.com/Gustavo-Zamai/movie-recommendation",
       "github": true
     },
     {
-      "name": "DIO Clone",
-      "url": "https://github.com/Gustavo-Zamai/DIO-Clone",
+      "name": "ucl-api-node-ts-express",
+      "url": "https://github.com/Gustavo-Zamai/ucl-api-node-ts-express",
       "github": true
     },
     {
@@ -87,8 +123,8 @@
       "github": true
     },
     {
-      "name": "Projeto Dev Links",
-      "url": "https://github.com/Gustavo-Zamai/Dev_Links",
+      "name": "tripwise-api-node-ts-fastify",
+      "url": "https://github.com/Gustavo-Zamai/tripwise-api-node-ts-fastify",
       "github": true
     },
     {
@@ -97,30 +133,15 @@
       "github": true
     },
     {
-      "name": "Pokedex",
-      "url": "https://github.com/Gustavo-Zamai/Pokedex",
-      "github": true
-    },
-    {
       "name": "Portfólio",
       "url": "https://github.com/Gustavo-Zamai/Portfolio-Gustavo-Zamai",
-      "github": true
-    },
-    {
-      "name": "Dark Solus Fan Page",
-      "url": "https://github.com/Gustavo-Zamai/Dark_Souls_Fan_Page",
-      "github": true
-    },
-    {
-      "name": "Photo-IA",
-      "url": "https://github.com/Gustavo-Zamai/Photo-IA",
       "github": true
     }
   ],
   "professionalExperience": [
     {
       "name": "Monitor interno / Staff Segurança Eletrônica",
-      "period": "2023 - Present",
+      "period": "2023 - 2024",
       "description": "Manutenção de clientes, monitoramento de imagens e disparos e comunicação com a equipe técnica."
     },
     {
