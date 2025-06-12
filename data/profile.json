@@ -12,20 +12,8 @@
         "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       },
       {
-        "name": "JavaScript",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-      },
-      {
         "name": "TypeScript",
         "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-      },
-      {
-        "name": "HTML5",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-      },
-      {
-        "name": "CSS3",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
       },
       {
         "name": "Bootstrap",
@@ -44,24 +32,20 @@
         "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg"
       },
       {
-        "name": "Python",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
-      },
-      {
-        "name": "PostgreSQL",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
-      },
-      {
         "name": "MySQL",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"
-      },
-      {
-        "name": "MongoDB",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
       },
       {
         "name": "Docker",
         "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+      },
+       {
+        "name": "Postman",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+      },
+      {
+        "name": "Figma",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
       },
       {
         "name": "Git",
@@ -77,13 +61,11 @@
       }
     ],
     "softSkills": [
-      "Empatia",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização",
       "Comprometimento com resultados",
       "Comunicação",
-      "Facilidade em aprender",
       "Arquitetura de Sistemas",
       "Otimização de Performance",
       "Resolução de Problemas",
@@ -102,7 +84,7 @@
       "github": true
     },
     {
-      "name": "ucl-api-node-ts-express",
+      "name": "UCL-API",
       "url": "https://github.com/Gustavo-Zamai/ucl-api-node-ts-express",
       "github": true
     },
@@ -122,7 +104,7 @@
       "github": true
     },
     {
-      "name": "tripwise-api-node-ts-fastify",
+      "name": "TripWise",
       "url": "https://github.com/Gustavo-Zamai/tripwise-api-node-ts-fastify",
       "github": true
     },
