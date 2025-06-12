@@ -7,74 +7,74 @@
   "email": "gustavosimaozamai@gmail.com",
   "skills": {
     "hardSkills": [
-  {
-    "name": "React",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  },
-  {
-    "name": "JavaScript",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-  },
-  {
-    "name": "TypeScript",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-  },
-  {
-    "name": "HTML5",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-  },
-  {
-    "name": "CSS3",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-  },
-  {
-    "name": "Bootstrap",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-  },
-  {
-    "name": "Node.js",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-  },
-  {
-    "name": "Express",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-  },
-  {
-    "name": "Fastify",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg"
-  },
-  {
-    "name": "Python",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
-  },
-  {
-    "name": "PostgreSQL",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
-  },
-  {
-    "name": "MySQL",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"
-  },
-  {
-    "name": "MongoDB",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
-  },
-  {
-    "name": "Docker",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
-  },
-  {
-    "name": "Git",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-  },
-  {
-    "name": "GitHub",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-  },
-  {
-    "name": "Linux",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-  }
+      {
+        "name": "React",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+      },
+      {
+        "name": "HTML5",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+      },
+      {
+        "name": "Bootstrap",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "Express",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+      },
+      {
+        "name": "Fastify",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg"
+      },
+      {
+        "name": "Python",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
+      },
+      {
+        "name": "PostgreSQL",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"
+      },
+      {
+        "name": "MongoDB",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      },
+      {
+        "name": "Linux",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+      }
     ],
     "softSkills": [
       "Empatia",
@@ -133,7 +133,7 @@
     },
     {
       "name": "Portfólio",
-      "url": "https://github.com/Gustavo-Zamai/Portfolio-Gustavo-Zamai",
+      "url": "https://github.com/Gustavo-Zamai/portfolio-gustavo-zamai",
       "github": true
     }
   ],
